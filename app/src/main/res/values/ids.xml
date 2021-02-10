@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+<item name="team_a_score" type="id" />
+<item name="team_b_score" type="id" />
+<item name="countdown_button" type="id" />
+<item name="edit_text_input" type="id" tools:ignore="DuplicateDefinition" />
+<item name="text_view_countdown" type="id" />
+<item name="button_start_pause" type="id" />
+    <item name="button3" type="id" />
+</resources>
